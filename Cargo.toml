@@ -1,0 +1,7 @@
+[package]
+name = "double_omit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+input-handle = "1.0.4"
